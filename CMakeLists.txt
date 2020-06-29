@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16.1)
 
-set(CMAKE_OSX_DEPLOYMENT_TARGET "10.14")
+set(CMAKE_WIN32_EXECUTABLE "10.14")
 
 project(stork)
 
